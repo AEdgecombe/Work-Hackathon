@@ -3,7 +3,7 @@
 <img width="1192" height="568" alt="Picture 1" src="https://github.com/user-attachments/assets/89bd1120-013c-436e-9b7a-2f1a73f3e950" />
 
 
-This repository contains a brief overview of a proof-of-concept project developed during a work hackathon. Due to the sensitive nature of the data and internal tooling used, technical implementation details are limited. Please feel free to ask me more about this project in interviews.
+This repository contains a brief overview of a PoC project developed during a work hackathon. Due to the sensitive nature of the data and internal tooling used, technical implementation details are limited. Please feel free to ask me more about this project in interviews.
 
 ---
 
