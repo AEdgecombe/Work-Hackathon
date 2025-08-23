@@ -20,9 +20,6 @@ Using technical specifications and supporting documentation, the model generates
 ### 📊 Data Visualization
 Sensor data is visualized through a front-end dashboard (built with React) to simplify interpretation and facilitate sharing of insights across teams.
 
-### 🔧 Predictive Maintenance
-The system uses all available telemetry to recommend proactive steps that reduce downtime and improve vessel health over time.
-
 ---
 
 ## ⚙️ Architecture Overview
